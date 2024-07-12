@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PassowrdGenerator", "PassowrdGenerator\PassowrdGenerator.pyproj", "{90AC950A-6F02-46E7-B234-1A693DB29F50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90AC950A-6F02-46E7-B234-1A693DB29F50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90AC950A-6F02-46E7-B234-1A693DB29F50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10F0E65F-6E6F-4FB5-964E-BA0DF3B3078D}
+	EndGlobalSection
+EndGlobal
